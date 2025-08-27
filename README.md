@@ -48,7 +48,6 @@ This repository is created to showcase various programming activities, specifica
 
     - Each activity will have its own section in this README.
 
-Tasks will be documented with short explanations and screenshots.
 
 <br><br>
 
