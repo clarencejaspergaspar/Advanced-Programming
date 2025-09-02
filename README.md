@@ -1,5 +1,7 @@
 # Advanced Computer Programming and Algorithms 
 
+## Module 1: Introduction
+
 Name: Clarence Jasper S. Gaspar      
 
 Section: 2ECE-B
